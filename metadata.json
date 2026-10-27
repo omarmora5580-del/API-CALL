@@ -1,0 +1,8 @@
+{
+  "name": "Utilería de API Call a LLM",
+  "description": "Aplicación didáctica y funcional para experimentar la comunicación cliente-servidor realizando llamadas reales al API de Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
